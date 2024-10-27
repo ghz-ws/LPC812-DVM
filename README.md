@@ -1,5 +1,5 @@
 # Cheap Digital Voltage Meter
 
 Digital Voltage Meter with LPC812 and MCP3425.<br>
-PCB is available from https://ghz-ws.booth.pm/items/4623459
-![IMG_5157](https://user-images.githubusercontent.com/52226620/226098056-b3a66ec5-4cad-41f4-81a0-d0cd1a2bb527.jpg)
+![fig5-2](https://github.com/user-attachments/assets/c29b42fe-e223-408c-8ae4-96fbeaf1483f)
+![fig5-1](https://github.com/user-attachments/assets/e79511a5-c103-49c8-be05-7ebeb3c82f4c)
